@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Dan Goodin",
+        "title": "How Google Authenticator made one company’s network breach much, much worse",
+        "description": "Google's app for generating MFA codes syncs to user accounts by default. Who knew?",
+        "url": "https://arstechnica.com/security/2023/09/how-google-authenticator-gave-attackers-one-companys-keys-to-the-kingdom/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/multi-factor-authentication-760x380.jpg",
+        "publishedAt": "2023-09-15T17:20:35+00:00",
+        "content": "155 with \r\nA security company is calling out a feature in Googles authenticator app that it says made a recent internal network breach much worse.\r\nRetool, which helps customers secure their software… [+2636 chars]"
+      },
+      {
+        "source": {
+          "id": "recode",
+          "name": "Recode"
+        },
+        "author": "Sara Morrison",
+        "title": "Google is going on trial. Here’s what’s at stake for the company, and you.",
+        "description": "Which search engine do you use, and why is it Google? A judge will soon decide.",
+        "url": "https://www.vox.com/technology/2023/9/11/23864514/google-search-antitrust-trial",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/6MjUywysUQCPZ5AEyUc7QIxexXw=/0x962:6720x4480/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24906223/GettyImages_1281329479.jpg",
+        "publishedAt": "2023-09-11T11:00:00Z",
+        "content": "The first big trial of the modern Big Tech antitrust movement is here: On September 12, the Department of Justices lawsuit against Googles search engine monopoly begins. Whats at stake? Oh, nothing m… [+16694 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Shawna Chen",
+        "title": "Anchor Brewing Company to shutter after 127 years",
+        "description": "Many consider Anchor a San Francisco landmark in its own right due to its influence, which dates back to the Gold Rush.",
+        "url": "https://www.axios.com/local/san-francisco/2023/07/12/anchor-steam-beer-brewery-shut-down",
+        "urlToImage": "https://images.axios.com/ct7H_8tGytsOEvhaLKq5ko-fSbs=/0x0:6229x3504/1366x768/2023/07/12/1689187893264.jpg",
+        "publishedAt": "2023-07-12T21:41:11Z",
+        "content": "The historic Anchor Brewing Company, often called the godfather of steam beer, is shutting down operations after 127 years.\r\nWhy it matters: Many consider Anchor a San Francisco landmark in its own r… [+1830 chars]"
+      },
+      {
+        "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+        },
+        "author": "Ioanna Lykiardopoulou",
+        "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+        "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+        "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+        "publishedAt": "2023-06-22T11:21:08Z",
+        "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+      }
+    ]
+  }
